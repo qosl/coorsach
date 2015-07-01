@@ -1,0 +1,17 @@
+﻿Build started 6/24/2015 0:34:44 AM.
+     1>Project "D:\op\kursach\strassen_2005_1_2015\Strassen\Strassen\Strassen.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt strassen.cpp
+         strassen.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\op\kursach\strassen_2005_1_2015\Strassen\Debug\Strassen.exe" /INCREMENTAL /NOLOGO kernel32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\op\kursach\strassen_2005_1_2015\Strassen\Debug\Strassen.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\op\kursach\strassen_2005_1_2015\Strassen\Debug\Strassen.lib" /MACHINE:X86 /SAFESEH Debug\classic.obj
+         Debug\coppersmith_winograd.obj
+         Debug\main.obj
+         Debug\strassen.obj
+         Debug\tools.obj
+         Strassen.vcxproj -> D:\op\kursach\strassen_2005_1_2015\Strassen\Debug\Strassen.exe
+     1>Done Building Project "D:\op\kursach\strassen_2005_1_2015\Strassen\Strassen\Strassen.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.73
